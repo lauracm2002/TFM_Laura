@@ -1,0 +1,7 @@
+.venv/
+.wca4z/
+__pycache__/
+*.pyc
+.vscode/
+
+datos/originales/
