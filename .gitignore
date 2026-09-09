@@ -5,3 +5,10 @@ __pycache__/
 .vscode/
 
 datos/originales/
+
+# Archivos demasiado grandes
+datos/procesados/trafico_limpio.csv
+datos/procesados/trafico_modelo.csv
+datos/procesados/powerbi/trafico_powerbi.csv
+datos/procesados/predicciones.csv
+datos/procesados/powerbi/predicciones_powerbi.csv
